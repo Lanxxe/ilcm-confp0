@@ -14,7 +14,7 @@ function checkPassword() {
     document.getElementById('password-screen').style.display = 'none';
     document.getElementById('envelope-container').style.display = 'flex';
   } else {
-    error.textContent = 'Mali man HAHAHHAHA lowercase lahat hehe';
+    error.textContent = 'Mali man HAHAHHAHA Bossing lowercase lahat hehe';
   }
 }
 
